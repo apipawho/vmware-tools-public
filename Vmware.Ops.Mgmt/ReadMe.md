@@ -166,3 +166,17 @@ $vc_pass</p>
 ```
 Get-EsxiNtpServiceRefresh -vcenter 'vcenter.fqdn.com'
 ```
+
+-----------------
+Get-VcsaAvailableUpdates
+---------------------------
+Check for available updates on A VCSA,
+
+<p>Parameters:<br>
+$vcenter (vCenter FQDN)<br>
+$ssouser<br>
+$ssopass</p>
+
+```
+Get-VcsaAvailableUpdates -vcenter vcsa-lab00.domain.local -ssouser administrator@vsphere.local
+```
