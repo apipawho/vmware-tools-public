@@ -70,11 +70,11 @@ CompanyName = 'Unknown'
 
 # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
 FunctionsToExport = @(
-    'Copy-VcRolesAndPermissions','Get-ContentLibrary','Get-ContentLibraryItems','Get-ContentLibraryItemFiles','Move-VMxVCvMotion','Test-Multipath','Update-EsxiRootPwd','Set-EsxiNtpSource','Get-VcsaNtpSource','Set-VcsaNtpSource','Get-EsxiNtpServiceRefresh')
+    'Copy-VcRolesAndPermissions','Get-ContentLibrary','Get-ContentLibraryItems','Get-ContentLibraryItemFiles','Move-VMxVCvMotion','Test-Multipath','Update-EsxiRootPwd','Set-EsxiNtpSource','Get-VcsaNtpSource','Set-VcsaNtpSource','Get-EsxiNtpServiceRefresh','Get-VcsaAvailableUpdates')
 
 # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
 CmdletsToExport = @(
-    'Copy-VcRolesAndPermissions','Get-ContentLibrary','Get-ContentLibraryItems','Get-ContentLibraryItemFiles','Move-VMxVCvMotion','Test-Multipath','Update-EsxiRootPwd','Set-EsxiNtpSource','Get-VcsaNtpSource','Set-VcsaNtpSource','Get-EsxiNtpServiceRefresh')
+    'Copy-VcRolesAndPermissions','Get-ContentLibrary','Get-ContentLibraryItems','Get-ContentLibraryItemFiles','Move-VMxVCvMotion','Test-Multipath','Update-EsxiRootPwd','Set-EsxiNtpSource','Get-VcsaNtpSource','Set-VcsaNtpSource','Get-EsxiNtpServiceRefresh','Get-VcsaAvailableUpdates')
 
 # Variables to export from this module
 VariablesToExport = @()
