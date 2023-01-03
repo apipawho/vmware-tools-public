@@ -6,7 +6,7 @@ The Functions within this Module are useful for managing a variety of vCenter op
 ---------
 Functions
 ---------------------------
-Vmware.Ops.Mgmt - {'Copy-VcRolesAndPermissions','Get-ContentLibrary','Get-ContentLibraryItems','Get-ContentLibraryItemFiles','Move-VMxVCvMotion','Test-Multipath','Update-EsxiRootPwd','Set-EsxiNtpSource','Get-VcsaNtpSource','Set-VcsaNtpSource'}
+Vmware.Ops.Mgmt - {'Copy-VcRolesAndPermissions','Get-ContentLibrary','Get-ContentLibraryItems','Get-ContentLibraryItemFiles','Move-VMxVCvMotion','Test-Multipath','Update-EsxiRootPwd','Set-EsxiNtpSource','Get-VcsaNtpSource','Set-VcsaNtpSource','Get-EsxiNtpServiceRefresh','Get-VcsaAvailableUpdates'}
 
 
 ---------------------------
